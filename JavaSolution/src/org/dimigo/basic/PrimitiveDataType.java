@@ -15,6 +15,7 @@ package org.dimigo.basic;
  * 혈액형 : A 형
  * 
  * @author teacher
+ * @version 1.0
  *
  */
 public class PrimitiveDataType {

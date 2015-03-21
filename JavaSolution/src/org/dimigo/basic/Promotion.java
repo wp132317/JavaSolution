@@ -15,6 +15,7 @@ package org.dimigo.basic;
  * 연간 인건비 : 91,800,000,000원
  * 
  * @author teacher
+ * @version 1.0
  *
  */
 public class Promotion {
